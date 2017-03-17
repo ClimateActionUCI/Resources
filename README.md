@@ -20,11 +20,7 @@
 * Interesting datasets: https://github.com/caesar0301/awesome-public-datasets  
 
 ## R help  
-### Tutorials  
-#### Data wrangling (dplyr)  
-* Intro to dplyr: https://cran.r-project.org/web/packages/dplyr/vignettes/introduction.html  
-
-### Cheatsheets  
+### Cheatsheets & Tutorials    
 #### General
 * Learn X in Y minutes (for programmers new to R): https://learnxinyminutes.com/docs/r/
 * QuickR general worked examples (including common statistical analyses): http://www.statmethods.net/index.html
@@ -38,6 +34,7 @@
 
 #### Data wrangling (dplyr & tidyr)
 * RStudio cheatsheet: https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf
+* Intro to dplyr: https://cran.r-project.org/web/packages/dplyr/vignettes/introduction.html  
 
 #### Spatial data
 * Spatial data cheatsheet: http://www.maths.lancs.ac.uk/~rowlings/Teaching/UseR2012/cheatsheet.html
