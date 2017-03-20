@@ -43,7 +43,7 @@
 | :--------- | :--------------------------------------------------------------- | :------------------------- |
 | 9:00-10:30 | Project finalization and demo preparation | Finish project |
 | 10:30-12:00 | Group demos of Shiny app products | |
-| 12:00 | Closing remarks + adjourn | [Feedback survey][survey] & [Upload Shiny apps][shiny] (incl. server.R, ui.R, data artifact, R script that generated the data artifact) |
+| 12:00 | Closing remarks + adjourn | [Feedback survey][survey] & [Upload Shiny apps] (incl. server.R, ui.R, data artifact, R script that generated the data artifact) |
 
 # Milestones
 | Milestone | Description |
@@ -60,7 +60,6 @@
 
 
 [GRC]: http://www.grad.uci.edu/_assets/pdfs/GRC%20Map%20-%20Gateway%20Study%20Center.pdf "Map to Graduate Resource Center"
-[quest]: https://github.com/strongh/ClimateActionR/blob/master/Questions.md "CAT Workshop questions"
-[data]: https://github.com/strongh/ClimateActionR/blob/master/README.md "CAT Workshop datasets"
+[quest]: https://github.com/ClimateActionUCI/Resources/blob/master/Questions.md "CAT Workshop questions"
+[data]: https://github.com/ClimateActionUCI/datasets "CAT Workshop datasets"
 [survey]: http://goo.gl/forms/kcQ9riO3jp "CAT Workshop feedback survey"
-[shiny]: https://drive.google.com/open?id=0BxxFMy6ICoyuYzJzUzEwRlF5a2c
