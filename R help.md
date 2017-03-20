@@ -16,8 +16,6 @@
 * CA urban growth projections in 2020: https://catalog.data.gov/dataset/urban-growth-projected-2020  
 * 2050: https://catalog.data.gov/dataset/urban-growth-projected-2050  
 
-### Other  
-* Interesting datasets: https://github.com/caesar0301/awesome-public-datasets  
 
 ## R help  
 ### Cheatsheets & Tutorials    
