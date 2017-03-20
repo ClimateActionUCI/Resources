@@ -2,6 +2,7 @@
 
 ## Additional data Sources  
 ### Vegetation  
+* Climate datasets: http://climate.calcommons.org/lists/datasets
 * Jepson EcoRegions: https://catalog.data.gov/dataset/jepson-ecoregions  
 * Historical vegetation: https://catalog.data.gov/dataset/historic-natural-vegetation  
 
