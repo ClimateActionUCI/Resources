@@ -6,7 +6,6 @@ Colleen Chen
 Alex Jacoby  
 Galen Yacalis 
 Randy Ly  
-Shubhee Saxena  
 
 ## B  
 Kristine Arquero  
@@ -23,8 +22,8 @@ Jeremy Pathmanabhan
 Kino Zhao  
 
 ## D  
-Colin Cahill  
 Daniella McCahey  
 Samantha Leigh  
+Shubhee Saxena  
 Nick Vizenor  
 Dawn Woodard  
