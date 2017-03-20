@@ -1,6 +1,5 @@
 # CAT Data Science Workshop Schedule
 
-# Preparing for the workshop
 ### Please bring:
 * your computer with R and RStudio installed (see below) and your powercord
 * a water bottle (to cut down on packaging waste, drinks won't be provided with lunch)
