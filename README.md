@@ -14,7 +14,7 @@
 | 9:30-10:00 | Data science approaches to multidisciplinary problems | Padhraic Smyth |
 | 10:00-10:30 | Presentation of questions, datasets, milestones, and team formation | Colleen Nell, Lingge Li |
 | 10:30-10:45 | Break | |
-| 10:45-12:00 | Data wrangling in R -- manipulating spatial data | Colleen Nell |
+| 10:45-12:00 | [Data wrangling in R](http://rpubs.com/collnell/CATwrangling) | Colleen Nell |
 | 12:00-1:00 | Lunch | |
 | 1:00-2:00 | Managing species under climate change | Megan Lulow |
 | 2:00-2:15 | Break | |
